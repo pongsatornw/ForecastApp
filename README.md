@@ -10,4 +10,7 @@ How to build
 How to test
 -----------------------------------------------------------
 - After build application, you can fill City Name in EditText. Then click search button to search
-the  forecast weather of that city.
+the forecast weather of that city. [Application will return City Name, Country Code, Humidity,
+Temperature, DateTime andWeather Description.]
+- When you click at ViewHolder, each viewholder will change temperature unit between Celsius and Fahrenheit
+upto the lastest unit of that holder.
