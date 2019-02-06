@@ -6,6 +6,8 @@ Specification
 How to build
 -----------------------------------------------------------
 - After unzip file. Open it with Android Studio.
+- If event log show "Frameworks Detected". Please click	"Configure".
+
 
 How to test
 -----------------------------------------------------------
