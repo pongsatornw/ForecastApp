@@ -15,4 +15,10 @@ How to test
 the forecast weather of that city. [Application will return City Name, Country Code, Humidity,
 Temperature, DateTime andWeather Description.]
 - When you click at ViewHolder, each viewholder will change temperature unit between Celsius and Fahrenheit
-upto the lastest unit of that holder.
+up to the latest unit of that holder.
+
+
+APK File
+-----------------------------------------------------------
+You can download APK file here.
+https://mega.nz/#!mjQDiSbC!GsVdXleFISBdclaYw3S9D9OWgfxuBbYQRkVmwq534bc
